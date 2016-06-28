@@ -1,9 +1,1 @@
-shravan
-naveen
-munand
-
-PhD at Hopkins
-Engineer at Missourie...
-Engineer at Deloitt
-this has been changed from the local machine
-this has been changed after 2 hours of creating and achanging files from git
+this is from bash
