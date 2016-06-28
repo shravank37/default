@@ -1,0 +1,2 @@
+this is the fourth file in the repository and is created from the windows command prompt(cmd) rather than from the git bash
+one can equally access all the git commands from either windows command prompt or from the git bash.
