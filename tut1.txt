@@ -1,3 +1,4 @@
+changed made for git diff command
 this is from bash
 I dont know why this is not happening
 i do not know much about this but i learned most of it from my own experiences and hours of reading
